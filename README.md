@@ -6,9 +6,9 @@
   <!-- <a href="https://soumyajitblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a> -->
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Extra/demo.gif" />
-</div>
+</div> -->
 
 <br/>
 
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="http://blogs.soumya-jit.tech/" target="_blank">blogs.soumyajit.tech</a> which features some of my developer blog posts and experiences.<br/>
+
 
 This project was built using these technologies.
 
@@ -65,7 +65,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 ## Usage Instructions
 
